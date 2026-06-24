@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://ll-patiseri-76148a18.zappy5.app
+https://example.com
 מאפייה ביתית עם נשמה – גלו עולם של קינוחים ומאפים טריים בעבודת יד. בחרו את העוגיות שלכם והזמינו משלוח עד הבית. מתוקים מחכים לכם!
 
 ### אודות
-https://ll-patiseri-76148a18.zappy5.app/about
+https://example.com/about
 הכירו את התשוקה שמאחורי כל ביס – סיפורה של LL Patiseri, מאפייה ביתית שמביאה אהבה אמיתית לעולם הקינוחים. טעם של פעם, ישר מהמטבח הביתי.
 
 ### אירועים
-https://ll-patiseri-76148a18.zappy5.app/occasions
+https://example.com/occasions
 הופכים כל אירוע לבלתי נשכח עם עוגות ומאפים בעיצוב אישי. מימי הולדת ועד מסיבות – הזמינו עכשיו עוגת חלומות שתשאיר טעם של עוד. כי כל חגיגה ראויה למתוק מושלם.
 
 ### צור קשר
-https://ll-patiseri-76148a18.zappy5.app/contact
+https://example.com/contact
 מוכנים לטעום אהבה? דברו איתנו להזמנת קינוחים, מאפים ביתיים ועוגות מדהימות במשלוח עד הבית. LL Patiseri – הקינוח המושלם נמצא במרחק הודעה.
 
 ### Products
-https://ll-patiseri-76148a18.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - LL Patiseri
 
 ### Cart
-https://ll-patiseri-76148a18.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://ll-patiseri-76148a18.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://ll-patiseri-76148a18.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://ll-patiseri-76148a18.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://ll-patiseri-76148a18.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://ll-patiseri-76148a18.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - LL Patiseri
 
 ### Category
-https://ll-patiseri-76148a18.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - LL Patiseri
 
 ### תודה שפנית אלינו
-https://ll-patiseri-76148a18.zappy5.app/thank-you
+https://example.com/thank-you
 LL Patiseri - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ll-patiseri-76148a18.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ll-patiseri-76148a18.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ll-patiseri-76148a18.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -106,8 +106,8 @@ Home Bakery & Desserts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://ll-patiseri-76148a18.zappy5.app/sitemap.xml
-- Robots: https://ll-patiseri-76148a18.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://ll-patiseri-76148a18.zappy5.app/llms-full.txt
-- Products (JSON): https://ll-patiseri-76148a18.zappy5.app/products.json
-- Products (Google Merchant RSS): https://ll-patiseri-76148a18.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
